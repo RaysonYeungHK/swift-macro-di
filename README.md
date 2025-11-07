@@ -28,7 +28,7 @@ However, to maintain `Assembly` and `Assembler`, it is still a nightmare, especi
 
 ### Idea / Solution
 
-Inspried by Dagger2 / Hilt, using macro / annotation to simplify `register` and `resolve`.
+Inspired by Dagger2 / Hilt, using macro / annotation to simplify `register` and `resolve`.
 
 1. `register` with single annotation
    It generates `Assembly` implement
