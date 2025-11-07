@@ -273,7 +273,7 @@ class LunchMenu: Menu {
 
 #### Parent(s) dependency injection
 
-Due to natural of swift language, it is not efficient to trace inheritance of the class during code generation.
+Due to nature of swift language, it is not efficient to trace inheritance of the class during code generation.
 
 For example
 
